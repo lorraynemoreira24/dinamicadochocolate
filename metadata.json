@@ -1,0 +1,6 @@
+{
+  "name": "Nibo - Dinâmica do Chocolate",
+  "description": "Plataforma oficial da Dinâmica do Chocolate da Nibo para reuniões gerais mensais, condução ao vivo da fila de microfone, entrega de reconhecimentos baseados nos 9 valores da empresa, filtros por edições mensais, ranking e mural.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
